@@ -20,3 +20,6 @@ On the right side you can see 3 options what we can do.
 When we are transfering money or requesting a loan it will be shown in our movements. 
 
 Accounts have different formatting: first - European(EURO), second - American(USD).
+
+![image](https://github.com/VickyKolomiiets/the-bankist-app/assets/122746055/f8067d8d-6ad5-4f9c-86ae-6cd37e938bdd)
+![image](https://github.com/VickyKolomiiets/the-bankist-app/assets/122746055/f4876f52-99e2-4320-9090-27815a44e3bc)
